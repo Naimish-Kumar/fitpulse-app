@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>833794511605-8mhjhukm9l45frndd2jppu86cv5k0344.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.833794511605-8mhjhukm9l45frndd2jppu86cv5k0344</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>833794511605-fd8a9i1jqhed39j6n97pfscchhebgoa5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZIvrekoUYc0UjkUItDjrhal2mhbzi5Jk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>833794511605</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.acrocoder.fitpulse.app</string>
+	<key>PROJECT_ID</key>
+	<string>fitpulse743</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitpulse743.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:833794511605:ios:a5e1aa5548f0da0d3eabbc</string>
+</dict>
+</plist>
