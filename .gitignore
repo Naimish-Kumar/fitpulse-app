@@ -1,0 +1,9 @@
+build/
+.idea/
+.vscode/
+*.gradle/
+*.kotlin/
+*.ipr
+*.lock
+*.log
+
